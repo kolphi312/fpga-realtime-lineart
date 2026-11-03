@@ -1,0 +1,57 @@
+{
+  "name": "lineart_lap2_ink8_paper248",
+  "coefficients": [
+    0,
+    -1,
+    0,
+    -1,
+    4,
+    -1,
+    0,
+    -1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    -4,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    256,
+    256,
+    -512,
+    -512,
+    -2048,
+    -2048,
+    63488
+  ],
+  "source": "Hand-designed, not trained; no learned-model claim",
+  "equation": "L=4*Ycenter-Yleft-Yright-Ytop-Ybottom; a=clip(L-2,0,255); b=clip(-L-2,0,255); out=clip(248-8*a-8*b,0,255). One-pixel black perimeter.",
+  "bn": {
+    "mean": [
+      0,
+      0
+    ],
+    "variance": [
+      1,
+      1
+    ],
+    "gamma": [
+      1,
+      1
+    ],
+    "beta": [
+      -2,
+      -2
+    ],
+    "epsilon": 0,
+    "source": "Explicit hand-set inference affine parameters, not measured running statistics"
+  },
+  "threshold": 2,
+  "gain": 8,
+  "paper": 248
+}

@@ -1,0 +1,404 @@
+[
+  {
+    "path": "rtl/basic/async_packet_fifo.v",
+    "snapshot_path": "project/src/basic/async_packet_fifo.v",
+    "bytes": 2462,
+    "sha256": "1c08e114df99a4fd4e87bd7312354fc4d4b18688f3c476b380e4983d5bc9bf4e"
+  },
+  {
+    "path": "rtl/basic/axi_frame_fence.v",
+    "snapshot_path": "project/src/basic/axi_frame_fence.v",
+    "bytes": 2806,
+    "sha256": "12f949e41254bcf4c4c93ce3031903d098ed8dad527f5527ae2dd6b1b40d5f29"
+  },
+  {
+    "path": "rtl/basic/axi_timeout_probe.v",
+    "snapshot_path": "project/src/basic/axi_timeout_probe.v",
+    "bytes": 923,
+    "sha256": "2775b292892dd6acea2574706099a1a4677c75206d986b30ab8a75c5f32bd5c1"
+  },
+  {
+    "path": "rtl/basic/axi_video_arbiter.v",
+    "snapshot_path": "project/src/basic/axi_video_arbiter.v",
+    "bytes": 5012,
+    "sha256": "3f4840c84d5b77a03be967da79a1cab3e3f2935e19a7349aa4482bf79ff71857"
+  },
+  {
+    "path": "rtl/basic/bayer_bilinear_stream.v",
+    "snapshot_path": "project/src/basic/bayer_bilinear_stream.v",
+    "bytes": 4045,
+    "sha256": "6fc4ef205a8e10310935e0d0ca88bd61372f8afd6b087477de577033d0fc4f14"
+  },
+  {
+    "path": "rtl/basic/board_diag_video.v",
+    "snapshot_path": "project/src/basic/board_diag_video.v",
+    "bytes": 2789,
+    "sha256": "2fd25f1e8d71789c3169d35543b90d707e04b14aaf2c88611d91824bab82f7ee"
+  },
+  {
+    "path": "rtl/basic/board_diag_video_aligned.v",
+    "snapshot_path": "project/src/basic/board_diag_video_aligned.v",
+    "bytes": 4314,
+    "sha256": "dd17ba819be041dd479754385cdeeed4ac7cdb6eac339f7cd404ab952ee0c429"
+  },
+  {
+    "path": "rtl/basic/camera_i2c_pads.v",
+    "snapshot_path": "project/src/basic/camera_i2c_pads.v",
+    "bytes": 330,
+    "sha256": "33a92bda4bf95dae203f9598cd245cd3e23a6046b63ea1cdfc4fb36c9b0d15c2"
+  },
+  {
+    "path": "rtl/basic/capture_cadence_probe.v",
+    "snapshot_path": "project/src/basic/capture_cadence_probe.v",
+    "bytes": 1772,
+    "sha256": "cc048bc11991ef065e05f2b28dbfbab1eaaea226f822e49f3e2b9e532f30a09e"
+  },
+  {
+    "path": "rtl/basic/capture_pattern_mux.v",
+    "snapshot_path": "project/src/basic/capture_pattern_mux.v",
+    "bytes": 400,
+    "sha256": "c327b7c7198b2201bcb15cb422d97d9a2e74f8f7fbda13e1811a18f70c8779bf"
+  },
+  {
+    "path": "rtl/basic/cnn2_axi.v",
+    "snapshot_path": "project/src/basic/cnn2_axi.v",
+    "bytes": 5828,
+    "sha256": "241387512df796262953dc6a3f245e211b86ec9ed1663234fb774bedf46a6202"
+  },
+  {
+    "path": "rtl/basic/cnn2_stream.v",
+    "snapshot_path": "project/src/basic/cnn2_stream.v",
+    "bytes": 6648,
+    "sha256": "5955af81e1849598a6e3a63d7bec50e927b0b18dbfde09cff075c12d4bf9ecca"
+  },
+  {
+    "path": "rtl/basic/cnn_control_apb.v",
+    "snapshot_path": "project/src/basic/cnn_control_apb.v",
+    "bytes": 3158,
+    "sha256": "1643fc6d55dafd637a1d8a50dc3776a507985c2fbedeb85315377e0c181b43f6"
+  },
+  {
+    "path": "rtl/basic/cpu_halt_status.v",
+    "snapshot_path": "project/src/basic/cpu_halt_status.v",
+    "bytes": 601,
+    "sha256": "a2b5ea1c22a87bd6a4b482dea7e6303add5f07fed45976c9e36a03e81faea7a3"
+  },
+  {
+    "path": "rtl/basic/csi_frame_admission.v",
+    "snapshot_path": "project/src/basic/csi_frame_admission.v",
+    "bytes": 1871,
+    "sha256": "be680850b818fa80f822796a8efd27f84fa52a7685feddfcad2e1f7782093fcc"
+  },
+  {
+    "path": "rtl/basic/csi_stats_snapshot.v",
+    "snapshot_path": "project/src/basic/csi_stats_snapshot.v",
+    "bytes": 1330,
+    "sha256": "d75817152a675313274fc55c043d7da703abcf98f92d85d25501849f8a014070"
+  },
+  {
+    "path": "rtl/basic/display_session_probe.v",
+    "snapshot_path": "project/src/basic/display_session_probe.v",
+    "bytes": 385,
+    "sha256": "bc3ceb98a19970e80888b3c080d29d85c8fdfe55fc4ad73528c414ec6782144d"
+  },
+  {
+    "path": "rtl/basic/first_fault_probe.v",
+    "snapshot_path": "project/src/basic/first_fault_probe.v",
+    "bytes": 1343,
+    "sha256": "85b6921afaf0f2ef6dba602726687a536c83f523ac0a3d605718b59510e64eb9"
+  },
+  {
+    "path": "rtl/basic/fps_overlay.v",
+    "snapshot_path": "project/src/basic/fps_overlay.v",
+    "bytes": 1868,
+    "sha256": "74499c573c9ba7a67b3a30248a99cceebfbe9e8542e1e275cbbd235738c8a421"
+  },
+  {
+    "path": "rtl/basic/frame_bank_owner.v",
+    "snapshot_path": "project/src/basic/frame_bank_owner.v",
+    "bytes": 3204,
+    "sha256": "db0d26b84776b99fdfc2f67d785a1a3ec34ea4bda37a50ed244c283e3a8932e9"
+  },
+  {
+    "path": "rtl/basic/frame_integrity_probe.v",
+    "snapshot_path": "project/src/basic/frame_integrity_probe.v",
+    "bytes": 4574,
+    "sha256": "82ecea69f035accc833e99b28d4d4ce93054bc8785bf5d47204f4380eebc6fb3"
+  },
+  {
+    "path": "rtl/basic/frame_mailbox.v",
+    "snapshot_path": "project/src/basic/frame_mailbox.v",
+    "bytes": 1210,
+    "sha256": "4788ee053af9259d385716b4ca405c5ce64a448d30671564918454a9748e6c02"
+  },
+  {
+    "path": "rtl/basic/job_progress_probe.v",
+    "snapshot_path": "project/src/basic/job_progress_probe.v",
+    "bytes": 1623,
+    "sha256": "6a4d69060c4c666de011243bf9ff27eb5bb920c126792abe7525bd4e95699d60"
+  },
+  {
+    "path": "rtl/basic/managed_resize_axi_store.v",
+    "snapshot_path": "project/src/basic/managed_resize_axi_store.v",
+    "bytes": 2946,
+    "sha256": "743fbb074cfe360cfcfc6dd1e74fb98994c6df551624fbbd4db8b97a43750245"
+  },
+  {
+    "path": "rtl/basic/managed_video_apb.v",
+    "snapshot_path": "project/src/basic/managed_video_apb.v",
+    "bytes": 6365,
+    "sha256": "c40a4be7675abacfc6f9fad4282b61c66739256dff90f787372fd920803f8ccf"
+  },
+  {
+    "path": "rtl/basic/paired_frame_display.v",
+    "snapshot_path": "project/src/basic/paired_frame_display.v",
+    "bytes": 4427,
+    "sha256": "63cb0b010ff10b59368fbed4575e0dfc9980bc60425b65c04254ec4b7e741d86"
+  },
+  {
+    "path": "rtl/basic/paired_frame_owner.v",
+    "snapshot_path": "project/src/basic/paired_frame_owner.v",
+    "bytes": 4495,
+    "sha256": "bd031723256be68ae44e10b9755d1bbaa4345b39ff8f8444e4817d9e5ba31236"
+  },
+  {
+    "path": "rtl/basic/paired_split_reader.v",
+    "snapshot_path": "project/src/basic/paired_split_reader.v",
+    "bytes": 3698,
+    "sha256": "f8e817a3db119f69d9b9f39c09fc0c8cc363a27aca31704b973935c55f8c65a0"
+  },
+  {
+    "path": "rtl/basic/pipeline_control_apb.v",
+    "snapshot_path": "project/src/basic/pipeline_control_apb.v",
+    "bytes": 7327,
+    "sha256": "5c529de8eb252728c8de21bc6eb2f26d75c80c28d9e41f4e49a6fd4e50c4ddf9"
+  },
+  {
+    "path": "rtl/basic/pipeline_lifecycle.v",
+    "snapshot_path": "project/src/basic/pipeline_lifecycle.v",
+    "bytes": 929,
+    "sha256": "273bf405ea52d918cd0e8fc58d89ef8e7988f3dc457ab654067c48545b64b2a0"
+  },
+  {
+    "path": "rtl/basic/reset_release.v",
+    "snapshot_path": "project/src/basic/reset_release.v",
+    "bytes": 621,
+    "sha256": "8f741311d39b779b4c27add1c94f7102430a3dd53c91d857d54e16368235e844"
+  },
+  {
+    "path": "rtl/basic/resize_axi_store.v",
+    "snapshot_path": "project/src/basic/resize_axi_store.v",
+    "bytes": 4441,
+    "sha256": "767e562ca85e5280224320b003fbb1aec6099e9f798fb82eb51458a8591349da"
+  },
+  {
+    "path": "rtl/basic/resize_frame_guard.v",
+    "snapshot_path": "project/src/basic/resize_frame_guard.v",
+    "bytes": 4436,
+    "sha256": "88465a9400236a0438a4254230c97756683e897524544c2331bc01efafa41473"
+  },
+  {
+    "path": "rtl/basic/resize_nn_stream.v",
+    "snapshot_path": "project/src/basic/resize_nn_stream.v",
+    "bytes": 2616,
+    "sha256": "ecdb7d658cd75b65fc8be17e01df6725702f202b4ee56eb026faf8894db0ad38"
+  },
+  {
+    "path": "rtl/basic/rgb_display_bridge.v",
+    "snapshot_path": "project/src/basic/rgb_display_bridge.v",
+    "bytes": 5572,
+    "sha256": "f6d42296001537b16ac029946dfb56548a36aefff8070c8c796d97e317e12740"
+  },
+  {
+    "path": "rtl/basic/rgb_frame_axi_reader.v",
+    "snapshot_path": "project/src/basic/rgb_frame_axi_reader.v",
+    "bytes": 5874,
+    "sha256": "f9c11393c657fadae4b5520eeca0e9231f1162c1b4cb714c00c264f5c5e35184"
+  },
+  {
+    "path": "rtl/basic/rgb_frame_axi_reader_display.v",
+    "snapshot_path": "project/src/basic/rgb_frame_axi_reader_display.v",
+    "bytes": 6140,
+    "sha256": "360e56da537dc091445cbc6b695a09ed08326064dec6160e3eed1358d1b0c91f"
+  },
+  {
+    "path": "rtl/basic/rgb_frame_axi_writer.v",
+    "snapshot_path": "project/src/basic/rgb_frame_axi_writer.v",
+    "bytes": 5552,
+    "sha256": "f7df5592d6308f5f0214b1306f211573821ff3208ac35a4397e9957e70449303"
+  },
+  {
+    "path": "rtl/basic/rgb_frame_axi_writer_buffered.v",
+    "snapshot_path": "project/src/basic/rgb_frame_axi_writer_buffered.v",
+    "bytes": 6268,
+    "sha256": "1cfd61125f8051da038fc16f5185440cf784704182c9548477f71d1a9cd6367f"
+  },
+  {
+    "path": "rtl/basic/rgb_frame_display.v",
+    "snapshot_path": "project/src/basic/rgb_frame_display.v",
+    "bytes": 3436,
+    "sha256": "7418211bd4f1e51e3a53cf73b77ac16fd47c3cfa3524b9bbeef4e27c43572dd6"
+  },
+  {
+    "path": "rtl/basic/rgb_sync_fifo.v",
+    "snapshot_path": "project/src/basic/rgb_sync_fifo.v",
+    "bytes": 1481,
+    "sha256": "a2cf9af21690fddfab072ca8332c08379d4d5430bf46c1d9af9ba3cd6b129af4"
+  },
+  {
+    "path": "rtl/basic/sc2210_cnn_display.v",
+    "snapshot_path": "project/src/basic/sc2210_cnn_display.v",
+    "bytes": 8320,
+    "sha256": "166396cd4c9c723147b24607c45e7d245fb216e22b6add1d713d189b4093baed"
+  },
+  {
+    "path": "rtl/basic/sc2210_cnn_managed.v",
+    "snapshot_path": "project/src/basic/sc2210_cnn_managed.v",
+    "bytes": 10753,
+    "sha256": "54da48198b72cbc0200750932043258972e94006978ff18876717bb77bb23c3c"
+  },
+  {
+    "path": "rtl/basic/sc2210_command_store.v",
+    "snapshot_path": "project/src/basic/sc2210_command_store.v",
+    "bytes": 4185,
+    "sha256": "7c0a838fd430c09295510a095b879fee14abcb6e689ab881e7782fd26da1f37d"
+  },
+  {
+    "path": "rtl/basic/sc2210_ddr_display.v",
+    "snapshot_path": "project/src/basic/sc2210_ddr_display.v",
+    "bytes": 4970,
+    "sha256": "ab8352fd2e72981828ece445ef8ca66fe5c28fd98fe44e3bc775d72d48acb9a4"
+  },
+  {
+    "path": "rtl/basic/sc2210_raw_capture.v",
+    "snapshot_path": "project/src/basic/sc2210_raw_capture.v",
+    "bytes": 3835,
+    "sha256": "c6c1cffe5b84ce752e918bc55504fbc82f4593d8be3a9c71f965d6b4f3c2c0e5"
+  },
+  {
+    "path": "rtl/basic/sc2210_rgb_store.v",
+    "snapshot_path": "project/src/basic/sc2210_rgb_store.v",
+    "bytes": 4514,
+    "sha256": "9c43fdd4b57f946caaadd1fd0502445128e5221a0dc57f66566e9ba20bde81f1"
+  },
+  {
+    "path": "rtl/basic/style_apb.v",
+    "snapshot_path": "project/src/basic/style_apb.v",
+    "bytes": 2287,
+    "sha256": "8eace49d88e855428b28a3a787eeccc245cbaf5d9db023852e4a72aa52b92678"
+  },
+  {
+    "path": "rtl/basic/video_apb_decode.v",
+    "snapshot_path": "project/src/basic/video_apb_decode.v",
+    "bytes": 1508,
+    "sha256": "fa7c13ac679ed61513ad89e2e9e464cd4b7e1b39dc142bf11a6882e190bd34fb"
+  },
+  {
+    "path": "rtl/basic/video_raster.v",
+    "snapshot_path": "project/src/basic/video_raster.v",
+    "bytes": 813,
+    "sha256": "f1e351e21b4be9b347cc43c562ac4a2fdebe571950a865931ae4d6ea12360e73"
+  },
+  {
+    "path": "firmware/boundary_window.h",
+    "snapshot_path": "sw/boundary_window.h",
+    "bytes": 3072,
+    "sha256": "eb18a81687f898aafb19deefdd41a42e3c66d9992dd53b0be650b487c44f46f7"
+  },
+  {
+    "path": "firmware/camera_i2c.c",
+    "snapshot_path": "sw/camera_i2c.c",
+    "bytes": 3757,
+    "sha256": "10099f815503c77117190647c6d888470d4259fe611254fcb3946b82574ec923"
+  },
+  {
+    "path": "firmware/camera_i2c.h",
+    "snapshot_path": "sw/camera_i2c.h",
+    "bytes": 966,
+    "sha256": "c11daf9b953fe385056b5285ad4d6da081a96ade4c0a7095042b0347ebd33d24"
+  },
+  {
+    "path": "firmware/camera_platform.c",
+    "snapshot_path": "sw/camera_platform.c",
+    "bytes": 1404,
+    "sha256": "dcc285ea9d3a89918484701b9f28b57a6bf79f77badfd33ce35af444069b4cc4"
+  },
+  {
+    "path": "firmware/camera_platform.h",
+    "snapshot_path": "sw/camera_platform.h",
+    "bytes": 166,
+    "sha256": "ac564443af8bb35f9591f6eda24a867cadea124e29072acc70bae9b72d56a9fb"
+  },
+  {
+    "path": "firmware/crt0.S",
+    "snapshot_path": "sw/crt0.S",
+    "bytes": 1218,
+    "sha256": "831bd43aa109eb2bb3487f24c99dd8b28459e351e1e8c059f7996c954f0967da"
+  },
+  {
+    "path": "firmware/halt_diag.h",
+    "snapshot_path": "sw/halt_diag.h",
+    "bytes": 502,
+    "sha256": "bf73a4c6210ba63e617a71c0138f58b8d81532bad102b1d6647eb1540f694c90"
+  },
+  {
+    "path": "firmware/link.ld",
+    "snapshot_path": "sw/link.ld",
+    "bytes": 483,
+    "sha256": "5a495a33ab60e7224495f45297dc2c5cb7a08f648f2482c4fcce2a16524403fa"
+  },
+  {
+    "path": "firmware/main.c",
+    "snapshot_path": "sw/main.c",
+    "bytes": 7229,
+    "sha256": "7a6b89b3259b67733240d85db35d46f39d797938c2834c303934bf33f5a7fbab"
+  },
+  {
+    "path": "firmware/performance_window.h",
+    "snapshot_path": "sw/performance_window.h",
+    "bytes": 3689,
+    "sha256": "bea54a17582436c6a7a40b800e6a263bb4039261c7dae302c0c181572b85f9ca"
+  },
+  {
+    "path": "firmware/pipeline_driver.c",
+    "snapshot_path": "sw/pipeline_driver.c",
+    "bytes": 5767,
+    "sha256": "a98845db3461b90efa3200eb727e2abc03ad7ddb3463d2cadf05aed6115eee2c"
+  },
+  {
+    "path": "firmware/pipeline_driver.h",
+    "snapshot_path": "sw/pipeline_driver.h",
+    "bytes": 2563,
+    "sha256": "90f85a41af6edd05e8959b503c23d05ac149a297c0d522446ad0b69f26a73374"
+  },
+  {
+    "path": "firmware/pipeline_irq.c",
+    "snapshot_path": "sw/pipeline_irq.c",
+    "bytes": 4005,
+    "sha256": "499c53458328d180f3f140fe201d6a19dddff55936c5dfb735c35c2b7ad7ba23"
+  },
+  {
+    "path": "firmware/pipeline_irq.h",
+    "snapshot_path": "sw/pipeline_irq.h",
+    "bytes": 1231,
+    "sha256": "b4d49a879349219f272ca5ddc080515661a05045fe4652b084f6a11df3d2811e"
+  },
+  {
+    "path": "firmware/sc2210.c",
+    "snapshot_path": "sw/sc2210.c",
+    "bytes": 2179,
+    "sha256": "e3325e29e6f131bf83ebc2cdfe7f7b4a5f0d8e66ba842153b2d42e8e24113398"
+  },
+  {
+    "path": "firmware/timeout_diag.h",
+    "snapshot_path": "sw/timeout_diag.h",
+    "bytes": 1061,
+    "sha256": "934ab656a2fcbde72078afcf6262899365854beba5f98505fa189ba1c14ff666"
+  },
+  {
+    "path": "docs/style_spec.json",
+    "snapshot_path": "docs/style_spec.json",
+    "bytes": 889,
+    "sha256": "d7b72c54dae12c2c07ceeefc85e5505dc00824ee652b5fd1a17a3aeeca4f71e9"
+  }
+]
